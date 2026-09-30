@@ -16,7 +16,6 @@ import androidx.compose.ui.unit.dp
 import com.example.presentatiekaart.ui.theme.PresentatieKaartTheme
 
 
-
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
